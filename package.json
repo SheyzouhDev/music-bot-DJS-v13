@@ -1,0 +1,19 @@
+{
+  "name": "discord-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-player": "^5.2.2",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "ffmpeg-static": "^4.4.1",
+    "nodemon": "^2.0.16",
+    "opusscript": "^0.0.8"
+  }
+}
